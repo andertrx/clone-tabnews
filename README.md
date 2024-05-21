@@ -1,3 +1,3 @@
 # clone-tabnews
 
-Jornada até se tornar um DEV.
+Jornada até se tornar um DEV..
